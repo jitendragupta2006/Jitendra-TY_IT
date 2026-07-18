@@ -1,0 +1,14 @@
+C:\Users\Student\OneDrive\Documents\TY IT\.net\FloydTriangle\FloydTriangle\bin\Debug\net8.0\FloydTriangle.exe
+C:\Users\Student\OneDrive\Documents\TY IT\.net\FloydTriangle\FloydTriangle\bin\Debug\net8.0\FloydTriangle.deps.json
+C:\Users\Student\OneDrive\Documents\TY IT\.net\FloydTriangle\FloydTriangle\bin\Debug\net8.0\FloydTriangle.runtimeconfig.json
+C:\Users\Student\OneDrive\Documents\TY IT\.net\FloydTriangle\FloydTriangle\bin\Debug\net8.0\FloydTriangle.dll
+C:\Users\Student\OneDrive\Documents\TY IT\.net\FloydTriangle\FloydTriangle\bin\Debug\net8.0\FloydTriangle.pdb
+C:\Users\Student\OneDrive\Documents\TY IT\.net\FloydTriangle\FloydTriangle\obj\Debug\net8.0\FloydTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive\Documents\TY IT\.net\FloydTriangle\FloydTriangle\obj\Debug\net8.0\FloydTriangle.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive\Documents\TY IT\.net\FloydTriangle\FloydTriangle\obj\Debug\net8.0\FloydTriangle.AssemblyInfo.cs
+C:\Users\Student\OneDrive\Documents\TY IT\.net\FloydTriangle\FloydTriangle\obj\Debug\net8.0\FloydTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive\Documents\TY IT\.net\FloydTriangle\FloydTriangle\obj\Debug\net8.0\FloydTriangle.dll
+C:\Users\Student\OneDrive\Documents\TY IT\.net\FloydTriangle\FloydTriangle\obj\Debug\net8.0\refint\FloydTriangle.dll
+C:\Users\Student\OneDrive\Documents\TY IT\.net\FloydTriangle\FloydTriangle\obj\Debug\net8.0\FloydTriangle.pdb
+C:\Users\Student\OneDrive\Documents\TY IT\.net\FloydTriangle\FloydTriangle\obj\Debug\net8.0\FloydTriangle.genruntimeconfig.cache
+C:\Users\Student\OneDrive\Documents\TY IT\.net\FloydTriangle\FloydTriangle\obj\Debug\net8.0\ref\FloydTriangle.dll

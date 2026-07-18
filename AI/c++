@@ -1,0 +1,42 @@
+#include <iostream.h>
+#include <conio.h>
+#include <string.h>
+
+struct student
+{
+    int roll no;
+    char name[30];
+    float marks;
+
+};
+viod createstudent (student &s)
+{
+    cout<<"\nEnter Roll Number : ";cin>>s.rollno;
+    cout<<"\nEnter Name : ";cin>>s.name;
+    cout<<"\nEnter Marks : ";cin>>s.marks;
+}
+viod displaystudent (student s)
+{
+    if(s.rollno==0){cout<<"\nNo Student Record Found";return;}
+    cout<<"\nRoll Number : ";cin>>s.name;
+    cout<<"\nMarks : ";cin>>s.marks;
+}
+viod updatestudent (student &s)
+{
+    if(s.rollno==0){cout<<"\nNo Student Record available";return;}
+    cout<<"\nEnter New Name : ";cin>>s.name;
+    cout<<"\nEnter New Marks : ";cin>>s.marks;
+}
+viod deletestudent (student &s)
+{
+    s.rollNo=0;
+    strcpy(s.name," ");
+    s.marks=0;
+}
+void main()
+{
+    student s; s.
+}
+
+
+    
