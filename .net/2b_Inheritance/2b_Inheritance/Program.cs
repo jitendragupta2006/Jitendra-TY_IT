@@ -1,0 +1,79 @@
+﻿using System;
+
+namespace InheritanceDemo
+{
+    class Animal
+    {
+        public void Eat() => Console.WriteLine("Animal is eating");
+    }
+    class Dog : Animal
+    {
+        public void Bark() => Console.WriteLine("Dog is barking");
+    }
+    class GrandParent
+    {
+        public void Method1() => Console.WriteLine("GrandParent method");
+    }
+    class Parent : GrandParent
+    {
+        public void Method2() => Console.WriteLine("Parent method");
+    }
+    class Child : Parent
+    {
+        public void Method3() => Console.WriteLine("Child method");
+    }
+    class Shape
+    {
+        public void Draw() => Console.WriteLine("Drawing a shape");
+    }
+    
+    class Circle : Shape
+    {
+        public void Info() => Console.WriteLine("This is a Circle");
+    }
+    class Rectangle : Shape
+    {
+        public void Info() => Console.WriteLine("This is a Rectangle");
+    }
+    
+
+    interface IFlyable
+    {
+        void Fly();
+    }
+    interface ISwimmable
+    {
+        void Swim();
+    }
+    class Duck : IFlyable, ISwimmable
+    {
+        public void Fly() => Console.WriteLine("Duck can fly");
+        public void Swim() => Console.WriteLine("Duck can swim");
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("--- Single Inheritance ---");
+            Dog d = new Dog();
+            d.Eat(); d.Bark();
+
+            Console.WriteLine("--- Multilevel Inheritance ---");
+            Child c = new Child();
+            c.Method1(); c.Method2(); c.Method3();
+
+            Console.WriteLine("--- Hierarchical Inheritance ---");
+            Circle cir = new Circle(); cir.Draw(); cir.Info();
+
+            Rectangle rec = new Rectangle(); rec.Draw(); rec.Info();
+
+            Console.WriteLine("--- Multiple Inheritance (Interface) ---");
+            Duck duck = new Duck();
+
+            duck.Fly(); duck.Swim();
+
+            Console.ReadKey();
+        }
+    }
+}
+

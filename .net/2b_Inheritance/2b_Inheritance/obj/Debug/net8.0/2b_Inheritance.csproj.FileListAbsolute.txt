@@ -1,0 +1,15 @@
+C:\Users\Student\OneDrive\Documents\Jitendra TY_IT\.net\2b_Inheritance\2b_Inheritance\obj\Debug\net8.0\2b_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive\Documents\Jitendra TY_IT\.net\2b_Inheritance\2b_Inheritance\obj\Debug\net8.0\2b_Inheritance.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive\Documents\Jitendra TY_IT\.net\2b_Inheritance\2b_Inheritance\obj\Debug\net8.0\2b_Inheritance.AssemblyInfo.cs
+C:\Users\Student\OneDrive\Documents\Jitendra TY_IT\.net\2b_Inheritance\2b_Inheritance\obj\Debug\net8.0\2b_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive\Documents\Jitendra TY_IT\.net\2b_Inheritance\2b_Inheritance\obj\Debug\net8.0\2b_Inheritance.sourcelink.json
+C:\Users\Student\OneDrive\Documents\Jitendra TY_IT\.net\2b_Inheritance\2b_Inheritance\bin\Debug\net8.0\2b_Inheritance.exe
+C:\Users\Student\OneDrive\Documents\Jitendra TY_IT\.net\2b_Inheritance\2b_Inheritance\bin\Debug\net8.0\2b_Inheritance.deps.json
+C:\Users\Student\OneDrive\Documents\Jitendra TY_IT\.net\2b_Inheritance\2b_Inheritance\bin\Debug\net8.0\2b_Inheritance.runtimeconfig.json
+C:\Users\Student\OneDrive\Documents\Jitendra TY_IT\.net\2b_Inheritance\2b_Inheritance\bin\Debug\net8.0\2b_Inheritance.dll
+C:\Users\Student\OneDrive\Documents\Jitendra TY_IT\.net\2b_Inheritance\2b_Inheritance\bin\Debug\net8.0\2b_Inheritance.pdb
+C:\Users\Student\OneDrive\Documents\Jitendra TY_IT\.net\2b_Inheritance\2b_Inheritance\obj\Debug\net8.0\2b_Inheritance.dll
+C:\Users\Student\OneDrive\Documents\Jitendra TY_IT\.net\2b_Inheritance\2b_Inheritance\obj\Debug\net8.0\refint\2b_Inheritance.dll
+C:\Users\Student\OneDrive\Documents\Jitendra TY_IT\.net\2b_Inheritance\2b_Inheritance\obj\Debug\net8.0\2b_Inheritance.pdb
+C:\Users\Student\OneDrive\Documents\Jitendra TY_IT\.net\2b_Inheritance\2b_Inheritance\obj\Debug\net8.0\2b_Inheritance.genruntimeconfig.cache
+C:\Users\Student\OneDrive\Documents\Jitendra TY_IT\.net\2b_Inheritance\2b_Inheritance\obj\Debug\net8.0\ref\2b_Inheritance.dll

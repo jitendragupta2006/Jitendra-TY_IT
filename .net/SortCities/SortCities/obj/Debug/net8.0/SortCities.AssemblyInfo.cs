@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SortCities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ce257cb93c796e1684d351f31078dd465d62e00")]
 [assembly: System.Reflection.AssemblyProductAttribute("SortCities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SortCities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
